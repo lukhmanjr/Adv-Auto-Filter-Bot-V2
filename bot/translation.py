@@ -11,7 +11,7 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers ðŸ”¥ðŸ”
 
 For More Details Click Help Button Below..
 @lukhman_jr
-</i>
+</i>"""
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
