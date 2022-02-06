@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/lukhman_jr"
+                                    'മൊയലാളി🧑‍💻', url="https://t.me/lukhman_jr"
                                 )
                         ]
                     ]
@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/lukhman_jr'),
         InlineKeyboardButton('JOIN MY CHANNEL', url ='https://t.me/TORRENTZ_MOVIE')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/TORRENTzv2')
+        InlineKeyboardButton('GROUP', url='https://t.me/TORRENTzv2')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
